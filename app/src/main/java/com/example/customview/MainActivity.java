@@ -29,6 +29,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import com.example.customviewlib.AspectImageActivity;
+import com.example.customviewlib.DoubleImageActivity;
 
 public class MainActivity extends Activity implements AdapterView.OnItemClickListener {
 

@@ -12,8 +12,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AspectImageActivity" />
-        <activity android:name=".DoubleImageActivity" />
         <activity android:name=".BoxGridActivity" />
         <activity android:name=".CompoundControlActivity" />
     </application>
